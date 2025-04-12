@@ -34,8 +34,8 @@ Now, let's set a few git options **local for this repo**. Make sure you're `cd`'
 
 ```shell
 # Use your public GitHub credentials
-git config user.name "Firstname Lastname"
-git config user.email "youremail@provider.com"
+git config user.name "Majid0205"
+git config user melhaddadi@hotmail.com"
 # Set up commit signing
 git config user.signingkey youremail@provider.com 
 git config user.gpgsign true
