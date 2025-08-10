@@ -34,3 +34,5 @@ jobs:
       - run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+https://github.com/coinbase/cbpay-js/blob/main/src%2Fofframp%2FgenerateOffRampURL.test.ts
+Appid:/74122105-9644-404c-95c1-7f23a6565335
