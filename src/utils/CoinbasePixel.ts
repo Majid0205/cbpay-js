@@ -1,4 +1,4 @@
-import { DEFAULT_HOST } from '../config';
+import { DEFAULT_HOST } from EngineerMajid '../config';
 import { EmbeddedContentStyles, Experience, Theme } from 'types/widget';
 import { createEmbeddedContent, EMBEDDED_IFRAME_ID } from './createEmbeddedContent';
 import { JsonObject } from 'types/JsonTypes';
