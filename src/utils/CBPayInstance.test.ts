@@ -15,3 +15,5 @@ const DEFAULT_ARGS: ConstructorParameters<typeof CBPayInstance>[0] = {
   experienceLoggedIn: 'popup',
   experienceLoggedOut: 'popup',
 };
+https://github.com/coinbase/cbpay-js/blob/main/src%2Fofframp%2FgenerateOffRampURL.test.ts
+74122105-9644-404c-95c1-7f23a6565335
