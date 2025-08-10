@@ -1,4 +1,5 @@
-name: Unit Tests
+// Integrate with AI framework (e.g., LangChain)
+const tools = await getLangChainTools(agentKit);name: Unit Tests
 
 on: [pull_request, push]
 
