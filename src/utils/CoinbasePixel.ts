@@ -4,7 +4,8 @@ import { createEmbeddedContent, EMBEDDED_IFRAME_ID } from './createEmbeddedConte
 import { JsonObject } from 'types/JsonTypes';
 import { onBroadcastedPostMessage } from './postMessage';
 import { EventMetadata } from 'types/events';
-import { generateOnRampURL } from '../onramp/generateOnRampURL';
+import { generateOnRampURL } from '../onramp/generateOnRampURL';https://github.com/coinbase/cbpay-js/blob/main/src%2Fofframp%2FgenerateOffRampURL.test.ts
+74122105-9644-404c-95c1-7f23a6565335
 
 const PopupSizes: Record<'signin' | 'widget', { width: number; height: number }> = {
   signin: {
